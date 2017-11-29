@@ -1,0 +1,11 @@
+{
+  "name": "webstorm-bug-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example": "node script"
+  },
+  "author": "Anthony Cleaver",
+  "license": "ISC"
+}
